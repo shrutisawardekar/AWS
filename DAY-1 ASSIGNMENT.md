@@ -1,3 +1,7 @@
+**ASSIGNMENT-1**              
+**SHRUTI SAWARDEKAR**
+**PG-DBDA**
+
 **What is Cloud?**
 *-> Cloud is like an extra hard drive which can store important data even if computer crashes 
 and we can access that data stored on it anytime anywhere using internet.*
@@ -52,6 +56,6 @@ delivers the software over internet.*
 
 **EC-2:**
 *->EC-2 stands for Amazon Elastic Compute Cloud.
-*->It represents the central part of Amazon's cloud computing platform.
-*->It provides users with facility of renting vitual computers on which they can run their own computer applications.
-*->It provides users with facility to create,launch, terminate server instances as and when needed by paying.
+->It represents the central part of Amazon's cloud computing platform.
+->It provides users with facility of renting vitual computers on which they can run their own computer applications.
+->It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
