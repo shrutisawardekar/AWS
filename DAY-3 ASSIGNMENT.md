@@ -1,3 +1,6 @@
+**ASSIGNMENT-3**
+**SHRUTI SAWARDEKAR**
+**PG DBDA**
 **RDS**
 *->RDS stands for Relational Database Services.
 ->It is a service that is easy to setup, operate and scale a relational database in cloud.
