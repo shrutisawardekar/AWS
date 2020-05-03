@@ -75,7 +75,7 @@ delivers the software over internet.*
 
 **EC-2:**
 
-- *EC-2 stands for Amazon Elastic Compute Cloud.
-- *It represents the central part of Amazon's cloud computing platform.
-- *It provides users with facility of renting vitual computers on which they can run their own computer applications.
+- *EC-2 stands for Amazon Elastic Compute Cloud.*
+- *It represents the central part of Amazon's cloud computing platform.*
+- *It provides users with facility of renting vitual computers on which they can run their own computer applications.*
 - *It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
