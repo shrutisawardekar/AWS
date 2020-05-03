@@ -6,6 +6,17 @@
 *-> Cloud is like an extra hard drive which can store important data even if computer crashes 
 and we can access that data stored on it anytime anywhere using internet.*
 
+**Types of Cloud**
+*1. Public Cloud
+-> It can be used by anyone.
+->Example. AWS of Amzon, Azure of Microsoft, GCP og Google.*
+
+*2. Private Cloud
+-> It is owned by one organisation.*
+
+*3. Hybrid Cloud
+-> It is a comination of public and private clouds.*
+
 **Advantages of Cloud**
 *1.Cost Saving
 ->Cost saving is one of biggest advantage as it does not require any physical hardware.*
