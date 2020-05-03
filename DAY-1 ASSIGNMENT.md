@@ -7,9 +7,9 @@
 and we can access that data stored on it anytime anywhere using internet.*
 
 **Types of Cloud**
-*1. Public Cloud
--> It can be used by anyone.
--Example. AWS of Amzon, Azure of Microsoft, GCP og Google.*
+*1. Public Cloud*
+- It can be used by anyone.
+-Example. AWS of Amzon, Azure of Microsoft, GCP og Google.
 
 *2. Private Cloud
 -> It is owned by one organisation.*
