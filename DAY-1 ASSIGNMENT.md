@@ -3,6 +3,7 @@
 **PG-DBDA**
 
 **What is Cloud?**
+
 *-> Cloud is like an extra hard drive which can store important data even if computer crashes 
 and we can access that data stored on it anytime anywhere using internet.*
 
@@ -12,33 +13,35 @@ and we can access that data stored on it anytime anywhere using internet.*
 - *It can be used by anyone.*
 - *Example. AWS of Amzon, Azure of Microsoft, GCP og Google.*
 
-*2. Private Cloud
--> It is owned by one organisation.*
+*2. Private Cloud*
+- *It is owned by one organisation.*
 
 *3. Hybrid Cloud
--> It is a comination of public and private clouds.*
+- *It is a comination of public and private clouds.*
 
 **Advantages of Cloud**
-*1.Cost Saving
-->Cost saving is one of biggest advantage as it does not require any physical hardware.*
 
-*2.High Speed
-->It has High speed as it gives access to service quickly.*
+*1.Cost Saving*
+- *Cost saving is one of biggest advantage as it does not require any physical hardware.*
 
-*3.Backup of data
-->The data stored on cloud can be easily used for getting back up.*
+*2.High Speed*
+- *It has High speed as it gives access to service quickly.*
 
-*4.Storage Capacity
-->It has unlimited stoarage capacity for data.*
+*3.Backup of data*
+- *The data stored on cloud can be easily used for getting back up.*
 
-*5.Collaboration
-->It helps in collaborating fro many employees residing at distant places in an efficient and 
+*4.Storage Capacity*
+- *It has unlimited stoarage capacity for data.*
+
+*5.Collaboration*
+- *It helps in collaborating fro many employees residing at distant places in an efficient and 
 secure manner.*
 
 **What is a cloud service?**
-->*Cloud service can be defined as a wide variety of services that are being provided via 
+
+- *Cloud service can be defined as a wide variety of services that are being provided via 
 internet on demand by the companies and customers. 
-->Without using any internal infrastructure or hardware these services provide an easy and affordable access
+- Without using any internal infrastructure or hardware these services provide an easy and affordable access
 to applications.*
 
 **TYPES OF CLOUD SERVICES**
