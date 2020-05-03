@@ -66,14 +66,16 @@ delivers the software over internet.*
 - *Example-RDS, Hadoop.*
 
 **3. IaaS:**
-*->It is represented as Infrastructure As a Service.*
-*->It is one of the most flexible computing model.*
-*->Purchase of hardware depends on consumption.*
-*->Clients can possess complete control of their infrastructure.*
-*->Example-VM(EC-2),Disk Volume.*
+
+ - *It is represented as Infrastructure As a Service.*
+ - *It is one of the most flexible computing model.*
+ - *Purchase of hardware depends on consumption.*
+ - *Clients can possess complete control of their infrastructure.*
+ - *Example-VM(EC-2),Disk Volume.*
 
 **EC-2:**
-*->EC-2 stands for Amazon Elastic Compute Cloud.
-->It represents the central part of Amazon's cloud computing platform.
-->It provides users with facility of renting vitual computers on which they can run their own computer applications.
-->It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
+
+- *EC-2 stands for Amazon Elastic Compute Cloud.
+- *It represents the central part of Amazon's cloud computing platform.
+- *It provides users with facility of renting vitual computers on which they can run their own computer applications.
+- *It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
