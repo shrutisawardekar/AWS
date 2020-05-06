@@ -72,6 +72,25 @@
 
 ![3](https://user-images.githubusercontent.com/44541800/81184818-7c51ec00-8fce-11ea-8ba8-1d21ff96a32b.png)
 
-- *mv source destination* -> sends file from source to destination and deletes it at source.
+
+- *mv source destination* -> Sends file from source to destination and deletes it at source.
 
 ![4](https://user-images.githubusercontent.com/44541800/81184826-7eb44600-8fce-11ea-8fd9-4ca8f3b1abe5.png)
+
+
+-*ls -a * -> Displays all files including hidden(starting with .)
+
+![5](https://user-images.githubusercontent.com/44541800/81184837-84119080-8fce-11ea-903c-3b3b16949f28.png)
+
+
+- *ls -l* -> Displays detailed information of files.
+
+![6](https://user-images.githubusercontent.com/44541800/81184859-8a077180-8fce-11ea-8e60-ca6963eec7f2.png)
+
+
+- *history* -> Displays all the commands being used till now.
+
+![7](https://user-images.githubusercontent.com/44541800/81184868-8c69cb80-8fce-11ea-83a6-5d96b6343157.png)
+
+
+
