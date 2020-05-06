@@ -1,4 +1,4 @@
-**STEPS TO ATTCH IAM ROLES TO EC-2**
+**STEPS TO ATTACH IAM ROLES TO EC-2**
 
 - *Step 1*
 -> Select/type  IAM service from the serices option.
@@ -24,5 +24,16 @@
 -> The specified role is created.
 ![6](https://user-images.githubusercontent.com/44541800/81153042-26fee600-8fa0-11ea-8727-22dd6b6655a6.png)
 
--
+**STEPS TO ATTACH IAM ROLES TO EC-2**
+- *Step 1*
+->Select ec-2 from services.
+
+- *Step 2*
+->Select the instance.
+
+- *Step 3*
+->Select actions ->Instance settings -> Attach/Replace IAM Role.
+
+![7](https://user-images.githubusercontent.com/44541800/81154707-cc668980-8fa1-11ea-94d1-0d888f1ca5df.png)
+
 
