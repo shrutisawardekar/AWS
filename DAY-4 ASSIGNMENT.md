@@ -11,3 +11,8 @@
 - *Step 3*
 -> Select Ec-2 and click on permissions.
 ![3](https://user-images.githubusercontent.com/44541800/81149323-a0480a00-8f9b-11ea-84b6-3b61c9d36e14.png)
+
+- *Step 4*
+->
+![4](https://user-images.githubusercontent.com/44541800/81150533-a63eea80-8f9d-11ea-96a5-4dc44f5e738a.png)
+
