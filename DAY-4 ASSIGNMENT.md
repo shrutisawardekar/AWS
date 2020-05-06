@@ -93,4 +93,9 @@
 ![7](https://user-images.githubusercontent.com/44541800/81184868-8c69cb80-8fce-11ea-83a6-5d96b6343157.png)
 
 
+- *Ctrl+R* -> Searches any command by initials.
+
+![8](https://user-images.githubusercontent.com/44541800/81184881-8f64bc00-8fce-11ea-8bc8-010592016113.png)
+
+- **
 
