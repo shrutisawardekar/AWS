@@ -56,4 +56,7 @@
 
 **MobaXterm Commands**
 - *aws s3 ls* -> Displays bucket name.
+![1](https://user-images.githubusercontent.com/44541800/81180894-46f6cf80-8fc9-11ea-80b2-d3269315cf33.png)
 
+- *ls -r* -> Displays folders inside a bucket.
+![2](https://user-images.githubusercontent.com/44541800/81184810-7956fb80-8fce-11ea-8549-deb91870762b.png)
