@@ -54,3 +54,6 @@
 ->Select the specified IAM role and click on apply.
 ![8](https://user-images.githubusercontent.com/44541800/81155183-4d258580-8fa2-11ea-820f-46b394a30222.png)
 
+**MobaXterm Commands**
+- *aws s3 ls* -> Displays bucket name.
+
