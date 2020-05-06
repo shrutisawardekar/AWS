@@ -105,4 +105,8 @@
 
 
 
+- *Printing star pattern*
+
+![10](https://user-images.githubusercontent.com/44541800/81184912-955a9d00-8fce-11ea-9267-25316c897830.png)
+
 
