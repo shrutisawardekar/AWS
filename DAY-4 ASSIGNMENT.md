@@ -66,3 +66,8 @@
 - *ls -r* -> Displays folders inside a bucket.
 
 ![2](https://user-images.githubusercontent.com/44541800/81184810-7956fb80-8fce-11ea-8549-deb91870762b.png)
+
+
+- *aws s3 ls --recursive*
+
+![3](https://user-images.githubusercontent.com/44541800/81184818-7c51ec00-8fce-11ea-8ba8-1d21ff96a32b.png)
