@@ -71,3 +71,7 @@
 - *aws s3 ls --recursive*
 
 ![3](https://user-images.githubusercontent.com/44541800/81184818-7c51ec00-8fce-11ea-8ba8-1d21ff96a32b.png)
+
+- *mv source destination* -> sends file from source to destination and deletes it at source.
+
+![4](https://user-images.githubusercontent.com/44541800/81184826-7eb44600-8fce-11ea-8fd9-4ca8f3b1abe5.png)
