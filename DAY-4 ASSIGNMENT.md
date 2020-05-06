@@ -1,4 +1,4 @@
-** STEPS TO ATTCH IAM ROLES TO EC-2**
+**STEPS TO ATTCH IAM ROLES TO EC-2**
 
 - *Step 1*
 -> Select/type  IAM service from the serices option.
@@ -13,6 +13,16 @@
 ![3](https://user-images.githubusercontent.com/44541800/81149323-a0480a00-8f9b-11ea-84b6-3b61c9d36e14.png)
 
 - *Step 4*
-->
+-> Select Amazon S3 Full Access 
 ![4](https://user-images.githubusercontent.com/44541800/81150533-a63eea80-8f9d-11ea-96a5-4dc44f5e738a.png)
+
+- *Step 5*
+-> Assign a role name and select create role.
+![5](https://user-images.githubusercontent.com/44541800/81152728-d7b8b580-8f9f-11ea-8650-ef177d11f927.png)
+
+- *Step 6*
+-> The specified role is created.
+![6](https://user-images.githubusercontent.com/44541800/81153042-26fee600-8fa0-11ea-8727-22dd6b6655a6.png)
+
+-
 
