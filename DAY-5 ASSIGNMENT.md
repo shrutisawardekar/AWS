@@ -23,3 +23,7 @@
 - *Step 6* -> Select **test** and specify values.
 
 ![6](https://user-images.githubusercontent.com/44541800/81274828-76abe300-906e-11ea-9b70-fcee8c94acdf.png)
+
+- *Step 7* -> Click on **save** and **test** to test the code.
+
+![7](https://user-images.githubusercontent.com/44541800/81274837-790e3d00-906e-11ea-98c9-53529986b646.png)
