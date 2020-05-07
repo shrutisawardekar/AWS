@@ -8,7 +8,7 @@
 
 ![2](https://user-images.githubusercontent.com/44541800/81274788-698ef400-906e-11ea-8533-f00aa20112b5.png)
 
-- *Step 3* -> Select **use an exixting role** and specify a function name.
+- *Step 3* -> Select **use an existing role** and specify a function name.
 
 ![3](https://user-images.githubusercontent.com/44541800/81274798-6c89e480-906e-11ea-9787-df3e5d19388d.png)
 
@@ -19,3 +19,7 @@
 - *Step 5* -> Select the function created.
 
 ![5](https://user-images.githubusercontent.com/44541800/81274812-714e9880-906e-11ea-916d-0d11c0e1794d.png)
+
+- *Step 6* -> Select **test** and specify values.
+
+![6](https://user-images.githubusercontent.com/44541800/81274828-76abe300-906e-11ea-9b70-fcee8c94acdf.png)
