@@ -36,3 +36,8 @@
 8. *Delete the test2 folder.*
 
 ![8](https://user-images.githubusercontent.com/44541800/85847814-bddc6780-b7c5-11ea-9645-04a20082611f.png)
+
+
+9. *After deleting the directory displays*
+
+![9](https://user-images.githubusercontent.com/44541800/85847836-c3d24880-b7c5-11ea-90e3-b2e3671219bd.png)
