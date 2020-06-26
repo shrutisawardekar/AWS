@@ -66,3 +66,13 @@
 14. *Using **-cat** command to view text files in HDFS.*
 
 ![14](https://user-images.githubusercontent.com/44541800/85849659-f762a200-b7c8-11ea-9222-04f5a61baff1.png)
+
+
+15. *Now perform the -put and -getmerge commands.*
+
+![15](https://user-images.githubusercontent.com/44541800/85849684-077a8180-b7c9-11ea-85cc-560a5f6ba536.png)
+
+
+16. *To check Blocksize.*
+
+![16](https://user-images.githubusercontent.com/44541800/85849665-f9c4fc00-b7c8-11ea-8e04-9a5bc43c3f2d.png)
