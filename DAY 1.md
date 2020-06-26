@@ -41,3 +41,8 @@
 9. *After deleting the directory displays*
 
 ![9](https://user-images.githubusercontent.com/44541800/85847836-c3d24880-b7c5-11ea-90e3-b2e3671219bd.png)
+
+
+10. *Uploading a file to hdfs - Putting a file int the test folder that changes the directory and the folder contains data.txt.*
+
+![10](https://user-images.githubusercontent.com/44541800/85847842-c6cd3900-b7c5-11ea-8c95-1ad6d47291b0.png)
