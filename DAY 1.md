@@ -18,7 +18,7 @@
 ![4](https://user-images.githubusercontent.com/44541800/85842249-05122a80-b7bd-11ea-8585-65e8d92d204d.png)
 
 
-5. *To create a directory named test in HDFS and o verify that the folder was created successfully*
+5. *To create a directory named test in HDFS and  verify that the folder was created successfully*
 
 ![5](https://user-images.githubusercontent.com/44541800/85847786-b1f0a580-b7c5-11ea-8d8b-db48426090d7.png)
 
@@ -43,6 +43,11 @@
 ![9](https://user-images.githubusercontent.com/44541800/85847836-c3d24880-b7c5-11ea-90e3-b2e3671219bd.png)
 
 
-10. *Uploading a file to hdfs - Putting a file int the test folder that changes the directory and the folder contains data.txt.*
+10. *Uploading a file to hdfs - Putting a file in the test folder that changes the directory and the folder contains data.txt.*
 
 ![10](https://user-images.githubusercontent.com/44541800/85847842-c6cd3900-b7c5-11ea-8c95-1ad6d47291b0.png)
+
+
+11. *Using **-put** command to copy data.txt into the test folder in HDFS.*
+
+![11](https://user-images.githubusercontent.com/44541800/85847851-c9c82980-b7c5-11ea-9605-620439254214.png)
