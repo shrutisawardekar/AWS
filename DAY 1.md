@@ -58,4 +58,6 @@
 ![12](https://user-images.githubusercontent.com/44541800/85849643-f29dee00-b7c8-11ea-915b-df3cf028060b.png)
 
 
-13. **
+13. *Delete the data2.txt file using the **-rm** command.*
+
+![13](https://user-images.githubusercontent.com/44541800/85849650-f5004800-b7c8-11ea-9a52-a9122ba444f2.png)
