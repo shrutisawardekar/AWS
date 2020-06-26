@@ -18,16 +18,21 @@
 ![4](https://user-images.githubusercontent.com/44541800/85842249-05122a80-b7bd-11ea-8585-65e8d92d204d.png)
 
 
-5. *To create a directory named test in HDFS*
+5. *To create a directory named test in HDFS and o verify that the folder was created successfully*
 
 ![5](https://user-images.githubusercontent.com/44541800/85847786-b1f0a580-b7c5-11ea-8d8b-db48426090d7.png)
 
 
-6. *To verify that the folder was created successfully*
+6. *To create a couple of subdirectories for test.*
 
 ![6](https://user-images.githubusercontent.com/44541800/85847789-b452ff80-b7c5-11ea-8ee1-61234723d8e5.png)
 
 
-7. *To create a couple of subdirectories for test.*
+7. *To view the subdirectories*
 
 ![7](https://user-images.githubusercontent.com/44541800/85847796-b61cc300-b7c5-11ea-954d-f70360a7d504.png)
+
+
+8. *Delete the test2 folder.*
+
+![8](https://user-images.githubusercontent.com/44541800/85847814-bddc6780-b7c5-11ea-9645-04a20082611f.png)
