@@ -51,3 +51,9 @@
 11. *Using **-put** command to copy data.txt into the test folder in HDFS.*
 
 ![11](https://user-images.githubusercontent.com/44541800/85847851-c9c82980-b7c5-11ea-9605-620439254214.png)
+
+
+12. *Copy the data.txt file in test to another folder in HDFS.*
+
+![12](https://user-images.githubusercontent.com/44541800/85849643-f29dee00-b7c8-11ea-915b-df3cf028060b.png)
+
