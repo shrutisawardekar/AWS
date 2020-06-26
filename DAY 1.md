@@ -61,3 +61,8 @@
 13. *Delete the data2.txt file using the **-rm** command.*
 
 ![13](https://user-images.githubusercontent.com/44541800/85849650-f5004800-b7c8-11ea-9a52-a9122ba444f2.png)
+
+
+14. *Using **-cat** command to view text files in HDFS.*
+
+![14](https://user-images.githubusercontent.com/44541800/85849659-f762a200-b7c8-11ea-9222-04f5a61baff1.png)
