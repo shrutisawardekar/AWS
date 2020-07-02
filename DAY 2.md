@@ -36,10 +36,18 @@
 
 
 **Exporting HDFS data to RDBMS**
+
 *Create a new directory using the below command.*
 
 ![8](https://user-images.githubusercontent.com/44541800/86369756-80cc1580-bc9c-11ea-9c26-9b82dfaa4e25.png)
 
-Put the data of the file in the new directory created(salarydata)
+
+
+*Put the data of the file in the new directory created(salarydata)*
 
 ![9](https://user-images.githubusercontent.com/44541800/86369779-86c1f680-bc9c-11ea-96c7-fdbda6d5203b.png)
+
+
+*Check the data in the file.*
+
+![10](https://user-images.githubusercontent.com/44541800/86369783-888bba00-bc9c-11ea-8025-596656e22d2f.png)
