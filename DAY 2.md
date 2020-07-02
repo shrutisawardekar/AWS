@@ -25,7 +25,7 @@
 
 
 
-5. *Use the split command to split the data on baisi of columns and as an exception arises,  go to workbench make changes in the gender column by selecting collation as utf8mb4.*
+5. *Use the split command to split the data on basis of columns and as an exception arises,  go to workbench make changes in the gender column by selecting collation as utf8mb4.*
 
 ![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
 
@@ -56,9 +56,11 @@
 ![9](https://user-images.githubusercontent.com/44541800/86369779-86c1f680-bc9c-11ea-96c7-fdbda6d5203b.png)
 
 
+
 3. *Check the data in the file.*
 
 ![10](https://user-images.githubusercontent.com/44541800/86369783-888bba00-bc9c-11ea-8025-596656e22d2f.png)
+
 
 
 4. *Create a new table salaries 2 in workbench.*
@@ -69,9 +71,7 @@
 
 5. *Export the data using the sqoop command.*
 
-![13](https://user-images.githubusercontent.com/44541800/86369803-8d506e00-bc9c-11ea-96e6-3c36ae287b5c.png)
-
-
+![11](https://user-images.githubusercontent.com/44541800/86369791-8a557d80-bc9c-11ea-8ada-d9d3ec7527c2.png)
 
 
 
