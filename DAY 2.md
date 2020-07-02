@@ -32,7 +32,14 @@
 ![6](https://user-images.githubusercontent.com/44541800/86369741-7ad63480-bc9c-11ea-8f6f-f54f3aa32a15.png)
 
 
+![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
+
+
 **Exporting HDFS data to RDBMS**
 *Create a new directory using the below command.*
 
-![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
+![8](https://user-images.githubusercontent.com/44541800/86369756-80cc1580-bc9c-11ea-9c26-9b82dfaa4e25.png)
+
+Put the data of the file in the new directory created(salarydata)
+
+![9](https://user-images.githubusercontent.com/44541800/86369779-86c1f680-bc9c-11ea-96c7-fdbda6d5203b.png)
