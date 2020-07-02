@@ -24,6 +24,11 @@
 
 
 
+![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
+
+
+
+
 *Run the below commands.*
 
 ![5](https://user-images.githubusercontent.com/44541800/86369687-6f830900-bc9c-11ea-9678-e6dac268b400.png)
@@ -32,7 +37,6 @@
 ![6](https://user-images.githubusercontent.com/44541800/86369741-7ad63480-bc9c-11ea-8f6f-f54f3aa32a15.png)
 
 
-![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
 
 
 **Exporting HDFS data to RDBMS**
