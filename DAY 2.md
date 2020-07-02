@@ -30,11 +30,13 @@
 ![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
 
 
-
-6. *Run the below commands.*
+6. *Check whether salaries3 directory is created on HDFS.*
 
 ![5](https://user-images.githubusercontent.com/44541800/86369687-6f830900-bc9c-11ea-9678-e6dac268b400.png)
 
+
+
+7. *Run the below commands.*
 
 ![6](https://user-images.githubusercontent.com/44541800/86369741-7ad63480-bc9c-11ea-8f6f-f54f3aa32a15.png)
 
