@@ -20,18 +20,13 @@
 
 *Run the column command to import salary and age columns.*
 
-![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
+![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
 
 
 
 *Use the split command to split the data on baisi of columns and as an exception arises,  go to workbench make changes in the gender column by selecting collation as utf8mb4.*
 
-
-![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
-
-
-
-
+![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
 
 
 
@@ -73,3 +68,9 @@
 *Export the data using the sqoop command.*
 
 ![12](https://user-images.githubusercontent.com/44541800/86369796-8c1f4100-bc9c-11ea-93b7-1cca9c2f1d06.png)
+
+
+
+*Verify the data on workbench exported using sqoop.*
+
+![13](https://user-images.githubusercontent.com/44541800/86369803-8d506e00-bc9c-11ea-96e6-3c36ae287b5c.png)
