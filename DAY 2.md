@@ -16,3 +16,8 @@
 
 ![3](https://user-images.githubusercontent.com/44541800/86369347-ee2b7680-bc9b-11ea-8861-87189d516dc3.png)
 
+
+*Import salary and age data only and put it in new directory named salaries2.*
+
+![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
+
