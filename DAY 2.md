@@ -62,3 +62,14 @@
 *Check the data in the file.*
 
 ![10](https://user-images.githubusercontent.com/44541800/86369783-888bba00-bc9c-11ea-8025-596656e22d2f.png)
+
+
+*Create a new table salaries 2 in workbench.*
+
+![11](https://user-images.githubusercontent.com/44541800/86369791-8a557d80-bc9c-11ea-8ada-d9d3ec7527c2.png)
+
+
+
+*Export the data using the sqoop command.*
+
+![12](https://user-images.githubusercontent.com/44541800/86369796-8c1f4100-bc9c-11ea-93b7-1cca9c2f1d06.png)
