@@ -69,7 +69,7 @@
 
 ![12](https://user-images.githubusercontent.com/44541800/86369796-8c1f4100-bc9c-11ea-93b7-1cca9c2f1d06.png)
 
-
+![14](https://user-images.githubusercontent.com/44541800/86369811-8fb2c800-bc9c-11ea-9097-f4e9afb81089.png)
 
 *Verify the data on workbench exported using sqoop.*
 
