@@ -61,7 +61,7 @@
 
 *Create a new table salaries 2 in workbench.*
 
-![11](https://user-images.githubusercontent.com/44541800/86369791-8a557d80-bc9c-11ea-8ada-d9d3ec7527c2.png)
+![new table](https://user-images.githubusercontent.com/44541800/86375443-4d40b980-bca3-11ea-9060-efee6b382df1.png)
 
 
 
