@@ -20,14 +20,14 @@
 
 4. *Run the column command to import salary and age columns.*
 
-![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
+
+![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
 
 
 
 5. *Use the split command to split the data on baisi of columns and as an exception arises,  go to workbench make changes in the gender column by selecting collation as utf8mb4.*
 
-![7](https://user-images.githubusercontent.com/44541800/86369746-7d388e80-bc9c-11ea-8709-2f4a083353bf.png)
-
+![4](https://user-images.githubusercontent.com/44541800/86369676-6bef8200-bc9c-11ea-8595-87b2c47879ea.png)
 
 
 
